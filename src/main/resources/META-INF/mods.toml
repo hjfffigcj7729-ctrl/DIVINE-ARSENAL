@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[52,)"
+license="All Rights Reserved"
+[[mods]]
+modId="divinearsenal"
+version="0.5.1"
+displayName="DIVINE ARSENAL"
+description='''Mythical weapons mod.'''
+[[dependencies.divinearsenal]]
+modId="forge"
+mandatory=true
+versionRange="[52.1.0,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.divinearsenal]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"
